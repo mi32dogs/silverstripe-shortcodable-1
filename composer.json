@@ -18,9 +18,9 @@
         }
     ],
     "require": {
-        "silverstripe/vendor-plugin": "^1.0",
-        "silverstripe/framework": "^4",
-        "restruct/silverstripe-simpler": "^0.1"
+        "silverstripe/vendor-plugin": "^2.0",
+        "silverstripe/framework": "^5",
+        "restruct/silverstripe-simpler": "dev-main"
     },
     "replace": {
         "sheadawson/silverstripe-shortcodable": "*"
